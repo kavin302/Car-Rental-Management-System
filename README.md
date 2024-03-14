@@ -1,9 +1,4 @@
 # Car-Rental-Management-System
-Certainly! Here's a description for your resume:
-
----
-
-**Car Rental Management System**
 
 A dynamic and robust Car Rental Management System developed using Java and modern Spring Framework technologies. This system efficiently manages various aspects of the car rental business, enhancing operational efficiency and customer satisfaction.
 
